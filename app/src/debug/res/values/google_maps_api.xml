@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=04:B4:56:A4:76:FE:02:A1:0E:C9:E7:B8:0E:6C:AC:8F:B0:EE:29:FD%3Btk.felixcity.mapmodule
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    04:B4:56:A4:76:FE:02:A1:0E:C9:E7:B8:0E:6C:AC:8F:B0:EE:29:FD
+
+    SHA-1 certificate fingerprint:
+    04:B4:56:A4:76:FE:02:A1:0E:C9:E7:B8:0E:6C:AC:8F:B0:EE:29:FD
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDQptMyAuOp42mxkMHLLXdAZuQcEE5R0Ws</string>
+</resources>
