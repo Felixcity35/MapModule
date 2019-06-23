@@ -7,3 +7,4 @@ after getting your api key  open your android studio again and locate res folder
 under res folder look for  values folder, open values folder and u will see a file called google_map_api.xml 
 open the folder and you see were to put your key.
 
+![screenshot](https://user-images.githubusercontent.com/43867036/59970362-27df8280-955c-11e9-8e0b-a09def07f9ab.PNG)
